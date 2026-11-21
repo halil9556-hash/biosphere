@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-[#070d0b] text-emerald-50 antialiased;
+}
+html, body {
+  overflow-x: hidden;
+  max-width: 100%;
+}
